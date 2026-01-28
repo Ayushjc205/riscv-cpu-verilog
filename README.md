@@ -1,4 +1,4 @@
-Single-Cycle RISC-V Processor in Verilog
+# Single-Cycle RISC-V Processor in Verilog
 
 This project implements a simple **single-cycle RV32I RISC-V processor** using Verilog HDL. The design is intended for learning and demonstration of basic CPU microarchitecture and datapath/control design.
 
