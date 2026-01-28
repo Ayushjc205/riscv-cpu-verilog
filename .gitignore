@@ -1,0 +1,18 @@
+# Vivado junk
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+.Xil/
+
+# Logs
+*.log
+*.jou
+
+# Simulation output
+*.wdb
+*.vcd
+
+# OS junk
+.DS_Store
