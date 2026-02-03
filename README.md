@@ -3,6 +3,8 @@
 This project implements a simple **single-cycle RV32I RISC-V processor** using Verilog HDL. The design is intended for learning and demonstration of basic CPU microarchitecture and datapath/control design.
 
 The processor executes one instruction per clock cycle and is simulated using **Xilinx Vivado**.
+<img width="1093" height="502" alt="image" src="https://github.com/user-attachments/assets/086d41be-f991-4a00-a0bc-1cb48b46db97" />
+
 ---
 Features
 - Single-cycle RISC-V (RV32I, partial)
